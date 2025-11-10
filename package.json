@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "name": "business-council-v3",
+  "version": "1.0.0",
+  "description": "MAB AI Business Council - Multi-agent decision making"
+}
